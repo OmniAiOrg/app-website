@@ -38,4 +38,4 @@ title: 语音写作应用
 
 ---
 
-[隐私政策](/sound-spark/privacy.md)
+[隐私政策](/sound-spark/privacy)
